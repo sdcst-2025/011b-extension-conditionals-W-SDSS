@@ -16,4 +16,4 @@ if choice == "1":
 elif choice == "2": 
     import _2
 else:
-    import _0
+    print("[bold red]Error![/bold red] Swallowed by the darkness of the forest.")
