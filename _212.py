@@ -2,8 +2,11 @@ from rich import print
 from os import system
 system("clear||cls")
 
-print("You cross the river and arrived to the cave.")
-print(" ")
+print("Gasping for breath, you struggled ashore,tossed around by the raging current.")
+print("")
+print("While catching your breath, you find small cave.")
+print("You decided to enter the cave curiosity.")
+print("")
 print("As you walked through the dark cave, you came to a place briightly lit up by torches.")
 print(" ")
 print("There is a treasure box bleaming with gold.")
