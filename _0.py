@@ -2,7 +2,7 @@ from rich import print
 from os import system
 system("clear||cls")
 
-print("Welcome to the [bold dark_green]Forest of Confusion[/bold dark_green]!!")
+print("Welcome to the [bold dark_green underline]Forest of Confusion[/bold dark_green underline]!!")
 print("You are lost in the forest.")
 print("")
 print("Which way to go?")
